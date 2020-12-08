@@ -31,10 +31,5 @@ public class TowersOfFourOrMore {
        tubesRes.printMoves();
 
     }
-
-
-    private int findIndexToFill(){
-
-        return 0;
-    }
+    
 }
